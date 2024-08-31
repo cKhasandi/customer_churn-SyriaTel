@@ -1,7 +1,7 @@
 # Customer_Churn-SyriaTel
 Phase 3 Moringa School Project, to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. 
 
-**#Project Title: SyriaTel Customer Churn Prediction**
+**Project Title: SyriaTel Customer Churn Prediction**
 
 **Motivation**
 The primary motivation behind this project is to reduce the churn rate by accurately predicting customers who are at risk of leaving SyriaTel. By understanding the patterns that lead to churn, the company can implement targeted retention strategies and improve customer satisfaction.
