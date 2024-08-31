@@ -1,4 +1,4 @@
-# customer_churn-SyriaTel
+# Customer_Churn-SyriaTel
 Phase 3 Moringa School Project, to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. 
 Project Title: SyriaTel Customer Churn Prediction
 Project Overview
