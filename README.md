@@ -3,6 +3,9 @@ Phase 3 Moringa School Project, to predict whether a customer will ("soon") stop
 
 **#Project Title: SyriaTel Customer Churn Prediction**
 
+**Motivation**
+The primary motivation behind this project is to reduce the churn rate by accurately predicting customers who are at risk of leaving SyriaTel. By understanding the patterns that lead to churn, the company can implement targeted retention strategies and improve customer satisfaction.
+
 
 **Project Overview**
 The aim of this project is to build a machine learning classifier to predict whether a customer will "soon" stop doing business with SyriaTel, a telecommunications company. This is a binary classification problem where the goal is to identify the likelihood of customer churn.
@@ -29,15 +32,14 @@ images/: Directory for storing plots and visualizations used in the project.
 
 **Installation and Requirements**
 To run this project, you'll need Python and several libraries.
-Methodology
 
 **Data Preprocessing:**
 
 Data was cleaned and prepared for modeling, including handling missing values, encoding categorical variables, and scaling numerical features.
-Modeling:
+Modeling: Using various classification algorithms such as Logistic Regression, Decision Trees and Random Forest.Models were trained on the training set and evaluated on the test set using appropriate metrics.
+Feature Engineering: Creating new features that might improve model performance.
+Model Evaluation: Evaluating models using metrics like accuracy, precision, recall, F1-score, and ROC AUC.
 
-Multiple classification algorithms were explored, including Logistic Regression, Decision Trees, and Random Forests.
-Models were trained on the training set and evaluated on the test set using appropriate metrics.
 
 **Evaluation:**
 
