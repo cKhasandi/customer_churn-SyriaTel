@@ -52,4 +52,4 @@ Key features influencing customer churn included tenure, monthly charges, and co
 The predictive model developed can help SyriaTel identify high-risk customers and take proactive measures to retain them. It is recommended that SyriaTel focuses on customers with specific contract types and monthly charges, as these are significant predictors of churn.
 
 **Contributors**
-Camilla Lumwaji (lumwajicamilla1@gmail.com)
+Camilla Lumwaji (ckhasandi867@gmail.com)
